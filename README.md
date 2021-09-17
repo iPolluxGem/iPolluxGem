@@ -1,4 +1,5 @@
 ### 半分星iPolluxGem 🛰️算是来玩的
+[![](https://img.shields.io/badge/Blog-WindStillBlows.me-red.svg)](https://windstillblows.me/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iPolluxGem.readme)
 
