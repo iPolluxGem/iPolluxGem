@@ -1,4 +1,4 @@
-### 半分星iPolluxGem 🛰️
+### 半分星iPolluxGem 🛰️算是来玩的
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iPolluxGem.readme)
 
